@@ -1,0 +1,7 @@
+led:
+  controller:
+    address: "xxx.xxx.xxx.xxx"
+    port: 11111
+    update:
+      interval:
+        ms: 50
